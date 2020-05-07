@@ -71,11 +71,11 @@ Project can work robustly and finish following functions:
 
 
 <div align="center">
-    <img src=".\PNG\chess.png" alt="chess" height="200" />
-    <img src=".\PNG\cameca_catch.jpg" alt="cameca_catch" height="200" />
-    <img src=".\PNG\recorusult.jpg" alt="recorusult" height="200" />
+    <img src=".\PNG\chess.png" alt="chess" />
+    <img src=".\PNG\cameca_catch.jpg" alt="cameca_catch" " />
+    <img src=".\PNG\recorusult.jpg" alt="recorusult" />
 </div>
 
 
-
+This is my curriculum paper work of Linux system. Feel free to check and modify it.
 **Please feel free to contact me if any question arises. I am warmhearted to communicate and improve it.**
