@@ -18,7 +18,7 @@
   * Setup you Linux env and Qt env correctly.
   * use correct CMake tool and set it as cross platform complier.
   * Cross complie the openCV  source and add the lib files in Linux env(on Linux board and PC).
-  * complie you Qt project with Cmake tool in PC (dont run the executive file).
+  * complie Qt project with Cmake tool in PC (dont run the executive file).
   * load and run the  executive file in Linux board.
 * FOR this project, the camera is operated by library V4L2.
 * openCV using with Apriltag complie needs paticular version of Cmake.
@@ -76,7 +76,8 @@ Project can work robustly and finish following functions:
  <img src=".\PNG\recorusult.jpg" alt="recorusult" height=140" />
 </div>
 
-
+### 
+### 
 
 **Please feel free to contact me if any question arises. I am warmhearted to communicate and improve it.**
 
