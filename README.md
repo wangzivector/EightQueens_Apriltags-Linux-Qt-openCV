@@ -76,5 +76,26 @@ Project can work robustly and finish following functions:
  <img src=".\PNG\recorusult.jpg" alt="recorusult" height=140" />
 </div>
 
+**Please feel free to contact me if any question arises. I am warmhearted to communicate and improve it.**
+
 ---
-**This is my curriculum project of Linux system. Please feel free to modify and contact me if any question arises. I am warmhearted to communicate and improve it.**
+
+
+
+### update
+
+* **cross platform information**
+
+  some detailed setting :
+
+  arm-linux-gcc-4.3.2 with openCV 2  
+
+  using cmake  gui set :  **don't** tick : with eigen / with tiff/ opencl
+
+  add lpthread -lrt  to file:CmakeCache.txt,CMAKE_EXE_LINKER_FLAGS
+
+  then make，make install  
+
+  <img src="./PNG/cmake-gui2.png" height="200"/>
+
+  
