@@ -13,7 +13,7 @@
 
 ### **notes:**
 
-* This is my curriculum paper work of Linux system. Feel free to check and modify it.
+* This is my curriculum project of Linux system. Feel free to check and modify it.
 * This repository includes the Qt project of the whole work. As you may konw, you have to do more than it before you can run it up. you must have finished the following part at least:
   * Setup you Linux env and Qt env correctly.
   * use correct CMake tool and set it as cross platform complier.
@@ -71,11 +71,10 @@ Project can work robustly and finish following functions:
 
 
 <div align="center">
-    <img src=".\PNG\chess.png" alt="chess" />
-    <img src=".\PNG\cameca_catch.jpg" alt="cameca_catch" " />
-    <img src=".\PNG\recorusult.jpg" alt="recorusult" />
+    <img src=".\PNG\chess.png" alt="chess" height="140" />
+ <img src=".\PNG\cameca_catch.jpg" alt="cameca_catch" height="140" />
+ <img src=".\PNG\recorusult.jpg" alt="recorusult" height=140" />
 </div>
 
-
-This is my curriculum paper work of Linux system. Feel free to check and modify it.
-**Please feel free to contact me if any question arises. I am warmhearted to communicate and improve it.**
+---
+**This is my curriculum project of Linux system. Please feel free to modify and contact me if any question arises. I am warmhearted to communicate and improve it.**
